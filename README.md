@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PropertyHub - Real Estate Platform
 
 A comprehensive real estate platform built with React, TypeScript, and Tailwind CSS. Features AI-powered property search, direct owner connections, and zero brokerage fees.
@@ -97,3 +98,6 @@ This project uses:
 ## License
 
 Private project - All rights reserved
+=======
+# homewise
+>>>>>>> 2c15fc2a427abc254ff89707767488154a31f563
